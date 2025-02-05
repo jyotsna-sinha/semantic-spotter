@@ -119,7 +119,7 @@ The LangChain framework revolves around the following building blocks:
 
 - Clone the github repository
   ```shell
-  $ git clone https://github.com/SanjayaKumarSahoo/semantic-spotter-project.git
+  $ git clone https://github.com/jyotsna-sinha/semantic-spotter.git
   ```
 - Open
   the [notebook](https://github.com/jyotsna-sinha/semantic-spotter/blob/main/semantic-spotter-langchain-notebook.ipynb)
